@@ -5,6 +5,8 @@
 }
 body {
     background-color: #ded8ce;
+    margin-left: auto;
+    border-style: double;
 
 }
 h2 {
@@ -12,4 +14,12 @@ h2 {
 }
  #footer{
     background-color:white ;
+    border-style: solid;
+ }
+ #menu{
+     background-color: black;
+     border-width: 50%;
+     padding: 5px;
+     border-radius: 40px 40px 40px 40px; 
+    
  }
